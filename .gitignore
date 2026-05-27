@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Key files / Secret files
+.env
+*.key
+*.token
+secrets/
+
+# IDE / User configs
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary outputs / Dry-run payloads
+temp_/
+*.tmp
+.temp_*
